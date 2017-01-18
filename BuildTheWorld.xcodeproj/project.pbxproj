@@ -96,6 +96,7 @@
 				TargetAttributes = {
 					953CC9281E3025FE00EF87BE = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = AV8QS98J28;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -258,6 +259,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AV8QS98J28;
 				INFOPLIST_FILE = BuildTheWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.al-bajrai.BuildTheWorld";
@@ -270,6 +272,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = AV8QS98J28;
 				INFOPLIST_FILE = BuildTheWorld/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.al-bajrai.BuildTheWorld";
